@@ -1,0 +1,34 @@
+{
+    "watch":[
+        {
+            "image":"https://images.unsplash.com/photo-1620625515032-6ed0c1790c75?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9sZXh8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+            "price":4000,
+            "name":"Rolex"
+        },
+        {
+            "image":"https://images.unsplash.com/photo-1620625515032-6ed0c1790c75?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9sZXh8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+            "price":4000,
+            "name":"Rolex"
+        },
+        {
+            "image":"https://images.unsplash.com/photo-1620625515032-6ed0c1790c75?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9sZXh8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+            "price":4000,
+            "name":"Rolex"
+        },
+        {
+            "image":"https://images.unsplash.com/photo-1620625515032-6ed0c1790c75?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9sZXh8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+            "price":4000,
+            "name":"Rolex"
+        },
+        {
+            "image":"https://images.unsplash.com/photo-1620625515032-6ed0c1790c75?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9sZXh8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+            "price":4000,
+            "name":"Rolex"
+        },
+        {
+            "image":"https://images.unsplash.com/photo-1620625515032-6ed0c1790c75?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9sZXh8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+            "price":4000,
+            "name":"Rolex"
+        }
+    ]
+}
